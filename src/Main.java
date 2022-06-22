@@ -1,7 +1,7 @@
 public class Main {
     private static final double EPS = 1e-5;
 
-
+//@Efimov DA
     public static void main(String[] args) {
 
 
